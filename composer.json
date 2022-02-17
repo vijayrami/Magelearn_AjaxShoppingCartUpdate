@@ -1,0 +1,25 @@
+{
+    "name": "magelearn/module-ajaxshoppingcartupdate",
+    "description": "Update Shopping Cart items quantity with AJAX. You can update checkout/cart items quantity seamlessly and see total price adjustments on the shopping cart page without having to click 'update to cart' button.",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        },
+        {
+            "email": "vijaymrami@gmail.com",
+            "name": "vijay rami"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magelearn\\AjaxShoppingCartUpdate\\": ""
+        }
+    }
+}
