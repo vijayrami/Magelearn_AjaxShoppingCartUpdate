@@ -7,12 +7,12 @@ Display Alert before remove items from cart on Checkout/cart Page.
 
 ## AjaxShoppingCartUpdate on Checkout Cart Page
 
-[![Shopping-Cart.gif](https://i.postimg.cc/C5qS8JQY/Shopping-Cart.gif)](https://postimg.cc/D4n9kQhY)
+![Shopping-Cart.gif](/assets/first.gif)
 
 ## Display alert message before remove items from cart on Checkout Cart Page
 
-[![Shopping-Cart-1.gif](https://i.postimg.cc/8PGhZChd/Shopping-Cart-1.gif)](https://postimg.cc/SjZ2sk1j)
+![Shopping-Cart-1.gif](/assets/second.gif)
 
 ## AjaxShoppingCartUpdate on Checkout Page
 
-[![Checkout.gif](https://i.postimg.cc/5NXnwTg8/Checkout.gif)](https://postimg.cc/F7QyvP2K)
+![Checkout.gif](/assets/third.gif)
